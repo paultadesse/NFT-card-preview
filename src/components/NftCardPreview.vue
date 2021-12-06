@@ -31,8 +31,8 @@
       </div>
 
       <div class="flex flex-col text-justify pt-5 space-y-5">
-        <div class="text-white font-semibold">Equilibrum #3429</div>
-        <div class="text-softblue">
+        <div class="text-2xl text-white font-semibold hover:text-mycyan cursor-pointer">Equilibrum #3429</div>
+        <div class="text-softblue font-medium text-lg tracking-tighter">
           Our Equilibrum collection promotes balance and calm.
         </div>
 
@@ -71,7 +71,7 @@
             </div>
             <span
               ><span class="text-softblue">Creation of</span>
-              <span class="text-white"> Jules Wyvern</span></span
+              <span class="text-white hover:text-mycyan cursor-pointer"> Jules Wyvern</span></span
             >
           </div>
         </div>
